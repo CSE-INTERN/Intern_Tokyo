@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVD_Rental", "DVD_Rental\DVD_Rental.csproj", "{AAE0543E-AB29-4AF8-972C-04097AF5DEDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAE0543E-AB29-4AF8-972C-04097AF5DEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE0543E-AB29-4AF8-972C-04097AF5DEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE0543E-AB29-4AF8-972C-04097AF5DEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE0543E-AB29-4AF8-972C-04097AF5DEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7A38626-E1EE-47B7-BB4C-852B703FB251}
+	EndGlobalSection
+EndGlobal
